@@ -1,1 +1,2 @@
 - Commit 2 (Graph Transformations): Implement algorithmic transformations such as operator fusion (e.g., Conv+BatchNorm) to reduce overhead.
+- Commit 3 (Hardware Hardening): Export the transformed model to a production-ready format like ONNX or TensorRT using Python APIs.
