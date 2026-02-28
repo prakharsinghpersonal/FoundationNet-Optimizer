@@ -1,0 +1,1 @@
+- Commit 2 (Graph Transformations): Implement algorithmic transformations such as operator fusion (e.g., Conv+BatchNorm) to reduce overhead.
