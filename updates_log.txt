@@ -1,0 +1,1 @@
+- Extend FoundationNet-Optimizer with native MLIR dialect support. Add a structured pass pipeline using MLIR's optimization framework to systematically execute the operator fusions before compiling down to hardware-specific representations. Update the README with the latency benchmarks comparing the new MLIR backend to the previous ONNX routing.
